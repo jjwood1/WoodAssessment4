@@ -1,3 +1,5 @@
+
+/**  * @author jjwood1 - Wood  * CIS175 - Spring 2021  * 2/17/2021  */
 package model;
 
 public class KtoMConverter {
